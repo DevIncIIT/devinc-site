@@ -14,7 +14,7 @@
                 form_filled = true;
             } else {
                 if (result.data?.incorrect) {
-                    alert("Please enter a valid smail (@iitpkd.ac.in) address");
+                    alert("Please enter a valid smail (@smail.iitpkd.ac.in) address");
                 }
             }
         };
@@ -44,7 +44,7 @@
             class="text-black bg-slate-400 placeholder:text-slate-50"
             name="smail"
             type="email"
-            placeholder="Enter your @iitpkd.ac.in email"
+            placeholder="Enter your @smail.iitpkd.ac.in email"
         />
         <Button type="submit" class="invert">Submit</Button>
     </form>

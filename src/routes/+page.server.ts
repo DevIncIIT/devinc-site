@@ -9,7 +9,7 @@ export const actions: Actions = {
         if (!message || !smail) {
             return fail(400, { missing: true });
         }
-        if (!smail.endsWith("@iitpkd.ac.in")) {
+        if (!smail.endsWith("@smail.iitpkd.ac.in")) {
             return fail(400, { smail, incorrect: true });
         }
         client.hSet("devinc-join", smail, message);
