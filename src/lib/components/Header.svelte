@@ -4,9 +4,9 @@
     >
         <a href="/" class="text-2xl font-bold">DevInc</a>
         <div class="flex gap-4">
-            <a href="/" class="text-xl">Home</a>
             <a href="/about" class="text-xl">About</a>
-            <a href="/projects" class="text-xl">Projects</a>
+            <a href="/#projects" class="text-xl">Projects</a>
+            <a href="#join" class="text-xl">Join</a>
         </div>
     </nav>
 </div>

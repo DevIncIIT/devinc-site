@@ -3,7 +3,7 @@
     import { Button } from "$lib/components/ui/button";
 </script>
 
-<h3 class="text-7xl">
+<h3 class="text-7xl" id="join">
     Wanna Join
     <span class="text-red-500"> DevInc</span>?
 </h3>

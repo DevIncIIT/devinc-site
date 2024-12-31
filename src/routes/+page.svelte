@@ -48,7 +48,7 @@
         that build production-ready applications using modern technologies.
     </p>
 
-    <Carousel.Root class="w-[90vw] mt-16">
+    <Carousel.Root class="w-[90vw] mt-16" id="projects">
         <Carousel.Content>
             {#each Array(5) as _, i (i)}
                 <Carousel.Item class="md:basis-1/2 lg:basis-1/4">

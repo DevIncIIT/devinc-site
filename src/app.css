@@ -1,3 +1,6 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 @import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
 
 
@@ -83,4 +86,5 @@
 
 body {
   font-family: 'Funnel Display', sans-serif;
+  scroll-behavior: smooth;
 }
