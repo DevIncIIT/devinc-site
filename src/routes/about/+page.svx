@@ -1,15 +1,14 @@
-# About DevInc
-DevInc is a community of developers at IIT Palakkad, that build production-ready applications using modern technologies.
+# DevInc.
+DevInc is a community of developers at [IIT Palakkad](https://iitpkd.ac.in), that build production-ready applications using modern technologies.
 
-## Why DevInc?
+DevInc serves as the place to learn and practice modern technologies, and build real software with them. 
+It fills the much-needed gap, shifting focus from bootcamps to the **real** software, to be used by *real people*.
 
-- To provide a platform for developers to showcase their skills and projects.
-- To provide a platform for developers to collaborate and learn from each other.
-- To provide a platform for developers to showcase their skills and projects.
-- To provide a platform for developers to collaborate and learn from each other.
+This was started in the Aug-Dec Semester of 2024, and is still in its nascent stages,
+we now have a few projects, a team of 6 senior devs, and a community of 20+ developers.
 
-### How to join?
+I hope to learn a lot in the process, and *get a cool POR*.
 
-- Join our [Discord](https://discord.gg/9w4h4u3)
-- Join our [Telegram](https://t.me/devinc)
-- Join our [Whatsapp](https://chat.whatsapp.com/G8v8n8r3v5p6b6p1p3p2)
+
+Thanks,<br>
+Kaushik Rawat, and the DevInc team.
