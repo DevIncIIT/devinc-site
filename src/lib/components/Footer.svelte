@@ -23,7 +23,7 @@
 
 <h3 class="text-7xl" id="join">
     Wanna Join
-    <span class="text-red-500"> DevInc</span>?
+    <span class="text-red-500"> Dev/nc</span>?
 </h3>
 {#if form_filled}
     <h1 class="text-4xl py-8">Thank you for your interest!</h1>

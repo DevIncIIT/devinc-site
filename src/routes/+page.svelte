@@ -4,6 +4,7 @@
 
     import ProjectCard from "$lib/components/ProjectCard.svelte";
     import Footer from "$lib/components/Footer.svelte";
+    import DevInc from "$lib/components/DevInc.svelte";
 
     let projects: Projects[] = [
         {
@@ -40,7 +41,9 @@
 </script>
 
 <center>
-    <h1 class="text-9xl pt-16 font-bold">DevInc</h1>
+    <div class="pt-16">
+        <DevInc font_style="text-9xl" />
+    </div>
     <h3 class="text-3xl text-gray-300">DevInc Is Not CP</h3>
     <p class="text-xl w-1/2 mt-16">
         DevInc is a community of developers at
